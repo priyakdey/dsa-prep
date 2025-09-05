@@ -1,4 +1,4 @@
-package com.priyakdey.graphs;
+package com.priyakdey;
 
 import java.util.ArrayList;
 import java.util.HashSet;

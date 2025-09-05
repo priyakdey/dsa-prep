@@ -1,4 +1,4 @@
-package com.priyakdey.graphs;
+package com.priyakdey;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;

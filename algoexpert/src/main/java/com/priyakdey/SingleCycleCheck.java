@@ -1,4 +1,4 @@
-package com.priyakdey.graphs;
+package com.priyakdey;
 
 /**
  * @author Priyak Dey
