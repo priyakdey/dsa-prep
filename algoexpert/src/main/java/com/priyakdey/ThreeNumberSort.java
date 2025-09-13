@@ -1,8 +1,5 @@
 package com.priyakdey;
 
-import java.util.Arrays;
-import java.util.Collections;
-
 /**
  * @author Priyak Dey
  */
@@ -67,10 +64,6 @@ public class ThreeNumberSort {
      */
     public int[] threeNumberSortbyCount(int[] array, int[] order) {
         int a = 0, b = 0, c = 0;
-
-        Arrays.sort();
-
-        Collections.sort();
 
         for (int num : array) {
             if (num == order[0]) a++;

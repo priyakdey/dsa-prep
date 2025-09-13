@@ -5,7 +5,7 @@ package com.priyakdey;
  */
 public class QuickSort {
 
-    // NOTE: This implementation of QuickSort uses the Lomuto partition scheme:
+    // NOTE: This implementation of QuickSort uses the Lomuto's partition scheme:
     // Pivot = last element (array[right])
     // pivotIndex tracks boundary of elements < pivot
     // After one scan, swaps pivot into its correct sorted position

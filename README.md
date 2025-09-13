@@ -26,7 +26,7 @@ It contains curated solutions, notes, and implementations from popular platforms
 - [Sorting Algorithms from Programiz](https://www.programiz.com/dsa/sorting-algorithm)
 - [Sorting Algorithm Visualizer](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/)
 - [Dutch Flag Sorting Algorithm](https://en.wikipedia.org/wiki/Dutch_national_flag_problem)
-- 
+- [Time complexity with reference to Constraints](https://codeforces.com/blog/entry/21344) 
 
 ## TODO
 
